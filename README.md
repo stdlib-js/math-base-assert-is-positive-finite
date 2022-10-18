@@ -22,7 +22,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Test if a numeric value is a positive finite number.
+> Test if a double-precision floating-point numeric value is a positive finite number.
 
 <section class="installation">
 
@@ -52,7 +52,7 @@ var isPositiveFinite = require( '@stdlib/math-base-assert-is-positive-finite' );
 
 #### isPositiveFinite( x )
 
-Tests if a `numeric` value is a positive finite number.
+Tests if a double-precision floating-point `numeric` value is a positive finite number.
 
 ```javascript
 var bool = isPositiveFinite( 3.14 );
