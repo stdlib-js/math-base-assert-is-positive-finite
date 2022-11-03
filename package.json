@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-assert-is-positive-finite",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Test if a double-precision floating-point numeric value is a positive finite number.",
   "license": "Apache-2.0",
   "author": {
