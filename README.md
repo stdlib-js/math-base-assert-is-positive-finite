@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isPositiveFinite from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-positive-finite@esm/index.mjs';
+import isPositiveFinite from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-positive-finite@v0.0.2-esm/index.mjs';
 ```
 
 #### isPositiveFinite( x )
@@ -68,7 +68,7 @@ bool = isPositiveFinite( -2.0 );
 <body>
 <script type="module">
 
-import isPositiveFinite from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-positive-finite@esm/index.mjs';
+import isPositiveFinite from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-positive-finite@v0.0.2-esm/index.mjs';
 
 var bool = isPositiveFinite( 3.14 );
 // returns true
