@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-08)
+## Unreleased (2025-08-18)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`65ddf8d`](https://github.com/stdlib-js/stdlib/commit/65ddf8d4d51ccfda52d1c5a06408e43fb386c27e) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`3eea4f7`](https://github.com/stdlib-js/stdlib/commit/3eea4f78d4cfeae6f9dbf10b0c21175a65e5e07b) - **fix:** add missing includes _(by Athan Reines)_
 -   [`da87aba`](https://github.com/stdlib-js/stdlib/commit/da87aba5a4cbb2ff6553a2d9d0ee6eb83bcdc8da) - **bench:** update random value generation [(#6690)](https://github.com/stdlib-js/stdlib/pull/6690) _(by Harsh)_
 -   [`f13ddb2`](https://github.com/stdlib-js/stdlib/commit/f13ddb2eb01e5520b6fa98634bbf9de76793036f) - **style:** use spaces for alignment in C comments _(by Philipp Burckhardt)_
